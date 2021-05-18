@@ -23,9 +23,9 @@ body {font-family: Arial;}
  table {
     font-family: Arial;
     border-collapse: collapse;
-    width: 50%;
+    /* width: 50%;
     min-width: 276px;
-    max-width: 512px;
+    max-width: 512px; */
   }
 
 td {
