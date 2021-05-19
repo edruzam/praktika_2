@@ -23,8 +23,8 @@ body {font-family: Arial;}
  table {
     font-family: Arial;
     border-collapse: collapse;
-    /* width: 50%;
-    min-width: 276px;
+    width: 100%;
+    /* min-width: 276px;
     max-width: 512px; */
   }
 
@@ -75,6 +75,10 @@ button {
     display: inline-block;
     font-size: 16px;
 }
-.card-title {
-    padding-top: 10px;
-}
+/* .card {
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-right: 20px;
+    style="max-width:16em;"
+} */
